@@ -73,3 +73,9 @@ A few rules keep it honest:
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+## Let's connect
+
+I'm always up for a conversation about agentic products, AI-native product management, or building for trade and finance in Latin America.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lauraaristizabal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauraaristizabal/)
