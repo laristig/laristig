@@ -50,7 +50,6 @@ I run my own product work on a multi-agent system built with Claude Code: 15 spe
 
 A few rules keep it honest:
 
-- **No orchestrator agent.** I orchestrate. Agents advise, and I decide.
 - **Most agents are read-only.** They produce judgment. Only a handful are allowed to write files or touch Jira, and they propose before they act.
 - **Analysis is evidence.** When an agent's analysis supports a decision, it is saved and linked to that decision, so my calls rest on reasoning that can be reviewed rather than on intuition.
 - **Three layers of knowledge.** History is append-only, current state gets rewritten instead of patched, and decisions live in their own log with what, when, who, why, and what would reverse them.
